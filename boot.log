@@ -24,3 +24,5 @@ Tunnel is live: https://big-fate-saved-spend.trycloudflare.com
 [boot 23:34:07Z] first publish done
 [boot 23:34:07Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 23:34:10Z] restore settled: ok
+[boot 23:34:10Z] TextNow app window started
