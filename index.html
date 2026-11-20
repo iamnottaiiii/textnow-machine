@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Your TextNow</title>
+<style>
+  body { margin:0; background:#111; color:#eee; font-family: Georgia, serif;
+         display:flex; align-items:center; justify-content:center; min-height:100vh; }
+  .box { text-align:center; padding:24px; max-width:420px; }
+  h1 { font-size:22px; font-weight:normal; margin:0 0 12px; }
+  p { color:#aaa; line-height:1.5; }
+  a { color:#ffb347; }
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>Opening your TextNow</h1>
+  <p id="msg">This page forwards you to the TextNow machine's current session. Reading its address...</p>
+  <p id="manual"></p>
+</div>
+<script>
+var SRC = 'https://raw.githubusercontent.com/iamnottaiiii/textnow-machine/main/live.json';
+function go() {
+  fetch(SRC + '?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      if (!d.url) throw new Error('no url yet');
+      var age = Date.now() - Date.parse(d.heartbeat || 0);
+      if (age < 12 * 60 * 1000) { location.replace(d.url); return; }
+      document.getElementById('msg').textContent =
+        'The TextNow machine is between sessions. This page checks again in 20 seconds.';
+      document.getElementById('manual').innerHTML =
+        'Or open the last known address now: <a href="' + d.url + '">open it</a>';
+      setTimeout(go, 20000);
+    })
+    .catch(function () {
+      document.getElementById('msg').textContent =
+        'The TextNow machine is starting. This page checks again in 20 seconds.';
+      setTimeout(go, 20000);
+    });
+}
+go();
+</script>
+</body>
+</html>
