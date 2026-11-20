@@ -20,3 +20,6 @@ PORT=5900
 [boot 18:31:28Z] screen stack up
 [boot 18:31:28Z] tunnel attempt 1
 Tunnel is live: https://sporting-respondents-norman-optimal.trycloudflare.com
+[boot 18:31:35Z] first publish done
+[boot 18:31:35Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
