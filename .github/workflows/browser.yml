@@ -1,0 +1,22 @@
+name: TextNow Machine
+on:
+  push:
+    paths: [start.txt]
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: textnow-machine
+  cancel-in-progress: true
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash engine.sh
+        env:
+          TS_AUTHKEY: ${{ secrets.TS_AUTHKEY }}
+          VNC_PASS: ${{ secrets.VNC_PASS }}
+          PROFILE_KEY: ${{ secrets.PROFILE_KEY }}
