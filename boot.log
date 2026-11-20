@@ -1,4 +1,4 @@
-[boot 16:18:04Z] engine started
+[boot 18:30:41Z] engine started
 
 Running kernel seems to be up-to-date.
 
@@ -12,12 +12,11 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
-[boot 16:18:51Z] packages ready
-[boot 16:18:51Z] routing settled: datacenter direct
+[boot 18:31:07Z] packages ready
+Joined the tailnet, looking for an exit node
+Home IP routing on, exit node 100.83.1.97
+[boot 18:31:18Z] routing settled: exit node 100.83.1.97
 PORT=5900
-[boot 16:18:53Z] screen stack up
-[boot 16:18:53Z] tunnel attempt 1
-Tunnel is live: https://medicaid-margin-desperate-cause.trycloudflare.com
-[boot 16:18:59Z] first publish done
-[boot 16:19:01Z] restore settled: none
-[boot 16:19:01Z] TextNow app window started
+[boot 18:31:28Z] screen stack up
+[boot 18:31:28Z] tunnel attempt 1
+Tunnel is live: https://sporting-respondents-norman-optimal.trycloudflare.com

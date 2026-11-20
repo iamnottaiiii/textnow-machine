@@ -1,12 +1,12 @@
 {
-  "url": "https://medicaid-margin-desperate-cause.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://sporting-respondents-norman-optimal.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-20T18:29:55.610346+00:00",
+  "heartbeat": "2026-11-20T18:31:33.506989+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "none",
-  "ts": "datacenter direct",
-  "peers": "",
+  "restore": "pending",
+  "ts": "exit node 100.83.1.97",
+  "peers": "bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser, DESKTOP-4N2854P (exit offered), bjvfi-browser, bjvfi-browser, HPlaptop (exit offered), bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser, bjvfi-browser",
   "chain": "pending: self-dispatch fires at 300 minutes",
-  "ip": "3.42.157.95"
+  "ip": "96.73.246.169"
 }
