@@ -21,3 +21,6 @@ PORT=5900
 [boot 23:34:01Z] screen stack up
 [boot 23:34:01Z] tunnel attempt 1
 Tunnel is live: https://big-fate-saved-spend.trycloudflare.com
+[boot 23:34:07Z] first publish done
+[boot 23:34:07Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
