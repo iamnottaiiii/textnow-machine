@@ -24,3 +24,5 @@ Tunnel is live: https://realm-loves-miles-expressed.trycloudflare.com
 [boot 09:38:42Z] first publish done
 [boot 09:38:42Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 09:38:45Z] restore settled: ok
+[boot 09:38:45Z] TextNow app window started
