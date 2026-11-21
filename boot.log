@@ -21,3 +21,6 @@ PORT=5900
 [boot 14:40:57Z] screen stack up
 [boot 14:40:57Z] tunnel attempt 1
 Tunnel is live: https://walks-chevy-operating-savannah.trycloudflare.com
+[boot 14:41:02Z] first publish done
+[boot 14:41:02Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
