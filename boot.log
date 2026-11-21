@@ -21,3 +21,6 @@ PORT=5900
 [boot 04:36:19Z] screen stack up
 [boot 04:36:19Z] tunnel attempt 1
 Tunnel is live: https://mountains-end-focusing-girls.trycloudflare.com
+[boot 04:36:24Z] first publish done
+[boot 04:36:24Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
