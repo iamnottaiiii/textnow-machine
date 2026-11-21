@@ -1,12 +1,12 @@
 {
-  "url": "https://realm-loves-miles-expressed.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://walks-chevy-operating-savannah.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-21T14:38:56.933672+00:00",
+  "heartbeat": "2026-11-21T14:41:01.626382+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "ok",
+  "restore": "pending",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-21T14:38:46Z UTC, HTTP 204",
-  "ip": "20.29.189.68"
+  "chain": "pending: self-dispatch fires at 300 minutes",
+  "ip": "20.163.6.81"
 }
