@@ -1,12 +1,12 @@
 {
-  "url": "https://walks-chevy-operating-savannah.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://researchers-whilst-lasting-needle.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-21T19:41:18.391764+00:00",
+  "heartbeat": "2026-11-21T19:43:18.843600+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "ok",
+  "restore": "pending",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-21T19:41:08Z UTC, HTTP 204",
-  "ip": "20.163.6.81"
+  "chain": "pending: self-dispatch fires at 300 minutes",
+  "ip": "172.184.219.80"
 }
