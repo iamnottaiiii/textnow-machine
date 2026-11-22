@@ -21,3 +21,6 @@ PORT=5900
 [boot 20:54:34Z] screen stack up
 [boot 20:54:34Z] tunnel attempt 1
 Tunnel is live: https://removable-served-commons-toolbox.trycloudflare.com
+[boot 20:54:40Z] first publish done
+[boot 20:54:40Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
