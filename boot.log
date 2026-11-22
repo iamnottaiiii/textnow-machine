@@ -21,3 +21,6 @@ PORT=5900
 [boot 10:50:07Z] screen stack up
 [boot 10:50:07Z] tunnel attempt 1
 Tunnel is live: https://yarn-changes-revenue-iso.trycloudflare.com
+[boot 10:50:13Z] first publish done
+[boot 10:50:13Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
