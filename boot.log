@@ -24,3 +24,5 @@ Tunnel is live: https://removable-served-commons-toolbox.trycloudflare.com
 [boot 20:54:40Z] first publish done
 [boot 20:54:40Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 20:54:44Z] restore settled: ok
+[boot 20:54:44Z] TextNow app window started
