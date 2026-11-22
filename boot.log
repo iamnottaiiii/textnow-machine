@@ -21,3 +21,6 @@ PORT=5900
 [boot 05:47:56Z] screen stack up
 [boot 05:47:57Z] tunnel attempt 1
 Tunnel is live: https://explains-transcription-institutions-marshall.trycloudflare.com
+[boot 05:48:03Z] first publish done
+[boot 05:48:03Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
