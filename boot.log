@@ -1,4 +1,4 @@
-[boot 00:43:50Z] engine started
+[boot 05:46:16Z] engine started
 
 Running kernel seems to be up-to-date.
 
@@ -12,17 +12,12 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
-[boot 00:44:16Z] packages ready
+[boot 05:46:36Z] packages ready
 Tailnet join failed, browsing keeps the datacenter IP
 backend error: invalid key: API key kyrGTVDVT721CNTRL not valid
 No exit node found on the tailnet, browsing keeps the datacenter IP
-[boot 00:45:27Z] routing settled: datacenter direct
+[boot 05:47:47Z] routing settled: datacenter direct
 PORT=5900
-[boot 00:45:37Z] screen stack up
-[boot 00:45:37Z] tunnel attempt 1
-Tunnel is live: https://donna-marked-varies-remember.trycloudflare.com
-[boot 00:45:43Z] first publish done
-[boot 00:45:43Z] restore: verifying the saved archive before touching the live home
-Saved profile restored
-[boot 00:45:46Z] restore settled: ok
-[boot 00:45:46Z] TextNow app window started
+[boot 05:47:56Z] screen stack up
+[boot 05:47:57Z] tunnel attempt 1
+Tunnel is live: https://explains-transcription-institutions-marshall.trycloudflare.com
