@@ -24,3 +24,5 @@ Tunnel is live: https://spec-harley-gourmet-leu.trycloudflare.com
 [boot 15:52:30Z] first publish done
 [boot 15:52:30Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 15:52:33Z] restore settled: ok
+[boot 15:52:33Z] TextNow app window started
