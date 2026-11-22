@@ -1,12 +1,12 @@
 {
   "url": "https://explains-transcription-institutions-marshall.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-22T10:45:35.816587+00:00",
+  "heartbeat": "2026-11-22T10:48:18.500878+00:00",
   "state": "live",
   "build": "textnow-machine",
   "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "pending: self-dispatch fires at 300 minutes",
+  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-22T10:48:08Z UTC, HTTP 204",
   "ip": "52.241.147.117"
 }
