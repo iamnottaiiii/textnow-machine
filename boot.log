@@ -24,3 +24,5 @@ Tunnel is live: https://editing-estimate-globe-draft.trycloudflare.com
 [boot 06:59:22Z] first publish done
 [boot 06:59:22Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 06:59:24Z] restore settled: ok
+[boot 06:59:24Z] TextNow app window started
