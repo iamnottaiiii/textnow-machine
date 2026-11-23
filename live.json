@@ -1,12 +1,12 @@
 {
   "url": "https://editing-estimate-globe-draft.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-23T11:55:47.968685+00:00",
+  "heartbeat": "2026-11-23T11:59:36.297523+00:00",
   "state": "live",
   "build": "textnow-machine",
   "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "pending: self-dispatch fires at 300 minutes",
+  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-23T11:59:26Z UTC, HTTP 204",
   "ip": "3.41.210.121"
 }
