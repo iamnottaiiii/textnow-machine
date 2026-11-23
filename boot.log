@@ -24,3 +24,5 @@ Tunnel is live: https://impacts-composed-ought-role.trycloudflare.com
 [boot 12:01:32Z] first publish done
 [boot 12:01:32Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 12:01:35Z] restore settled: ok
+[boot 12:01:35Z] TextNow app window started
