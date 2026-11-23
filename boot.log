@@ -21,3 +21,6 @@ PORT=5900
 [boot 22:05:48Z] screen stack up
 [boot 22:05:48Z] tunnel attempt 1
 Tunnel is live: https://spouse-skating-tribute-resolve.trycloudflare.com
+[boot 22:05:55Z] first publish done
+[boot 22:05:55Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
