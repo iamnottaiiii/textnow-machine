@@ -21,3 +21,6 @@ PORT=5900
 [boot 17:03:37Z] screen stack up
 [boot 17:03:37Z] tunnel attempt 1
 Tunnel is live: https://consultation-mercury-chelsea-agreed.trycloudflare.com
+[boot 17:03:43Z] first publish done
+[boot 17:03:43Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
