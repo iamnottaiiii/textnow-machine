@@ -21,3 +21,6 @@ PORT=5900
 [boot 06:59:16Z] screen stack up
 [boot 06:59:16Z] tunnel attempt 1
 Tunnel is live: https://editing-estimate-globe-draft.trycloudflare.com
+[boot 06:59:22Z] first publish done
+[boot 06:59:22Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
