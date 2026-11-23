@@ -21,3 +21,6 @@ PORT=5900
 [boot 01:56:52Z] screen stack up
 [boot 01:56:52Z] tunnel attempt 1
 Tunnel is live: https://insured-herself-cologne-infringement.trycloudflare.com
+[boot 01:56:57Z] first publish done
+[boot 01:56:57Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
