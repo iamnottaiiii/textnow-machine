@@ -1,12 +1,12 @@
 {
   "url": "https://impacts-composed-ought-role.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-23T16:58:23.699123+00:00",
+  "heartbeat": "2026-11-23T17:01:46.960487+00:00",
   "state": "live",
   "build": "textnow-machine",
   "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "pending: self-dispatch fires at 300 minutes",
+  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-23T17:01:36Z UTC, HTTP 204",
   "ip": "57.151.122.149"
 }
