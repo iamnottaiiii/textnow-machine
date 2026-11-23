@@ -24,3 +24,5 @@ Tunnel is live: https://consultation-mercury-chelsea-agreed.trycloudflare.com
 [boot 17:03:43Z] first publish done
 [boot 17:03:43Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 17:03:46Z] restore settled: ok
+[boot 17:03:46Z] TextNow app window started
