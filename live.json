@@ -1,10 +1,10 @@
 {
   "url": "https://knights-wilderness-press-westminster.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-24T03:08:13.618757+00:00",
+  "heartbeat": "2026-11-24T03:08:17.792888+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "pending",
+  "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
   "chain": "pending: self-dispatch fires at 300 minutes",
