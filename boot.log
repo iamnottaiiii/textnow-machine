@@ -24,3 +24,5 @@ Tunnel is live: https://pets-satisfaction-shaw-patch.trycloudflare.com
 [boot 08:10:40Z] first publish done
 [boot 08:10:40Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 08:10:44Z] restore settled: ok
+[boot 08:10:44Z] TextNow app window started
