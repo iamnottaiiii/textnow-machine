@@ -24,3 +24,5 @@ Tunnel is live: https://hanging-leave-gates-daily.trycloudflare.com
 [boot 13:13:03Z] first publish done
 [boot 13:13:03Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 13:13:07Z] restore settled: ok
+[boot 13:13:07Z] TextNow app window started
