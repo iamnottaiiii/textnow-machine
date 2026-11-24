@@ -24,3 +24,5 @@ Tunnel is live: https://half-fruits-slip-custom.trycloudflare.com
 [boot 18:15:14Z] first publish done
 [boot 18:15:14Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 18:15:17Z] restore settled: ok
+[boot 18:15:17Z] TextNow app window started
