@@ -21,3 +21,6 @@ PORT=5900
 [boot 23:17:29Z] screen stack up
 [boot 23:17:29Z] tunnel attempt 1
 Tunnel is live: https://evening-income-spots-profession.trycloudflare.com
+[boot 23:17:35Z] first publish done
+[boot 23:17:35Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
