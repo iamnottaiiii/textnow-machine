@@ -21,3 +21,6 @@ PORT=5900
 [boot 13:12:57Z] screen stack up
 [boot 13:12:57Z] tunnel attempt 1
 Tunnel is live: https://hanging-leave-gates-daily.trycloudflare.com
+[boot 13:13:03Z] first publish done
+[boot 13:13:03Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
