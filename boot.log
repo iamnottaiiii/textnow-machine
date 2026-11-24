@@ -21,3 +21,6 @@ PORT=5900
 [boot 08:10:32Z] screen stack up
 [boot 08:10:32Z] tunnel attempt 1
 Tunnel is live: https://pets-satisfaction-shaw-patch.trycloudflare.com
+[boot 08:10:40Z] first publish done
+[boot 08:10:40Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
