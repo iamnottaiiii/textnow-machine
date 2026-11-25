@@ -21,3 +21,6 @@ PORT=5900
 [boot 19:26:19Z] screen stack up
 [boot 19:26:19Z] tunnel attempt 1
 Tunnel is live: https://adjustment-memorabilia-clone-chemical.trycloudflare.com
+[boot 19:26:25Z] first publish done
+[boot 19:26:25Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
