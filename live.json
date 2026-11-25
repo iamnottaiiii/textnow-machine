@@ -1,12 +1,12 @@
 {
-  "url": "https://attorney-cork-referrals-educated.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://proposed-assure-variation-sauce.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-25T09:20:10.141532+00:00",
+  "heartbeat": "2026-11-25T09:22:05.679561+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "ok",
+  "restore": "pending",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-25T09:19:59Z UTC, HTTP 204",
-  "ip": "135.18.243.97"
+  "chain": "pending: self-dispatch fires at 300 minutes",
+  "ip": "20.119.102.93"
 }
