@@ -21,3 +21,6 @@ PORT=5900
 [boot 04:19:49Z] screen stack up
 [boot 04:19:49Z] tunnel attempt 1
 Tunnel is live: https://attorney-cork-referrals-educated.trycloudflare.com
+[boot 04:19:55Z] first publish done
+[boot 04:19:55Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
