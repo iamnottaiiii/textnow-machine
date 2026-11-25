@@ -24,3 +24,5 @@ Tunnel is live: https://proposed-assure-variation-sauce.trycloudflare.com
 [boot 09:22:06Z] first publish done
 [boot 09:22:06Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 09:22:10Z] restore settled: ok
+[boot 09:22:10Z] TextNow app window started
