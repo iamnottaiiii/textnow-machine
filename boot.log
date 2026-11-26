@@ -21,3 +21,6 @@ PORT=5900
 [boot 20:37:46Z] screen stack up
 [boot 20:37:46Z] tunnel attempt 1
 Tunnel is live: https://gaps-assuming-quarters-iii.trycloudflare.com
+[boot 20:37:52Z] first publish done
+[boot 20:37:52Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
