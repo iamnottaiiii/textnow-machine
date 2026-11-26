@@ -24,3 +24,5 @@ Tunnel is live: https://neither-ocean-advice-describes.trycloudflare.com
 [boot 15:35:32Z] first publish done
 [boot 15:35:32Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 15:35:35Z] restore settled: ok
+[boot 15:35:35Z] TextNow app window started
