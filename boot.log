@@ -21,3 +21,6 @@ PORT=5900
 [boot 10:33:19Z] screen stack up
 [boot 10:33:19Z] tunnel attempt 1
 Tunnel is live: https://blonde-tower-aug-background.trycloudflare.com
+[boot 10:33:24Z] first publish done
+[boot 10:33:24Z] restore: verifying the saved archive before touching the live home
+Saved profile restored

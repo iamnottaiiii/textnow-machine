@@ -1,10 +1,10 @@
 {
   "url": "https://blonde-tower-aug-background.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-26T10:33:23.782197+00:00",
+  "heartbeat": "2026-11-26T10:33:27.111717+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "pending",
+  "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
   "chain": "pending: self-dispatch fires at 300 minutes",
