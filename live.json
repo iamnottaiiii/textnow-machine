@@ -1,10 +1,10 @@
 {
   "url": "https://rochester-posters-air-supported.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-26T05:31:02.970396+00:00",
+  "heartbeat": "2026-11-26T05:31:07.209057+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "pending",
+  "restore": "ok",
   "ts": "datacenter direct",
   "peers": "none",
   "chain": "pending: self-dispatch fires at 300 minutes",
