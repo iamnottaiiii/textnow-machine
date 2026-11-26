@@ -1,12 +1,12 @@
 {
-  "url": "https://adjustment-memorabilia-clone-chemical.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://arena-integer-diane-decrease.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-26T00:26:40.215609+00:00",
+  "heartbeat": "2026-11-26T00:28:33.663854+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "ok",
+  "restore": "pending",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-26T00:26:29Z UTC, HTTP 204",
-  "ip": "9.234.22.134"
+  "chain": "pending: self-dispatch fires at 300 minutes",
+  "ip": "172.169.238.139"
 }
