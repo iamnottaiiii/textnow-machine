@@ -24,3 +24,5 @@ Tunnel is live: https://rochester-posters-air-supported.trycloudflare.com
 [boot 05:31:04Z] first publish done
 [boot 05:31:04Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 05:31:08Z] restore settled: ok
+[boot 05:31:08Z] TextNow app window started
