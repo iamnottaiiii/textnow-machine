@@ -21,3 +21,6 @@ PORT=5900
 [boot 15:35:26Z] screen stack up
 [boot 15:35:26Z] tunnel attempt 1
 Tunnel is live: https://neither-ocean-advice-describes.trycloudflare.com
+[boot 15:35:32Z] first publish done
+[boot 15:35:32Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
