@@ -24,3 +24,5 @@ Tunnel is live: https://blonde-tower-aug-background.trycloudflare.com
 [boot 10:33:24Z] first publish done
 [boot 10:33:24Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 10:33:28Z] restore settled: ok
+[boot 10:33:28Z] TextNow app window started
