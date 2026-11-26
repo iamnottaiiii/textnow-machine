@@ -21,3 +21,6 @@ PORT=5900
 [boot 00:28:29Z] screen stack up
 [boot 00:28:29Z] tunnel attempt 1
 Tunnel is live: https://arena-integer-diane-decrease.trycloudflare.com
+[boot 00:28:35Z] first publish done
+[boot 00:28:35Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
