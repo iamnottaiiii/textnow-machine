@@ -24,3 +24,5 @@ Tunnel is live: https://gaps-assuming-quarters-iii.trycloudflare.com
 [boot 20:37:52Z] first publish done
 [boot 20:37:52Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 20:37:56Z] restore settled: ok
+[boot 20:37:56Z] TextNow app window started
