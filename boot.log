@@ -21,3 +21,6 @@ PORT=5900
 [boot 11:45:11Z] screen stack up
 [boot 11:45:11Z] tunnel attempt 1
 Tunnel is live: https://launch-ultram-hills-want.trycloudflare.com
+[boot 11:45:17Z] first publish done
+[boot 11:45:17Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
