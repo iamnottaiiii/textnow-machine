@@ -24,3 +24,5 @@ Tunnel is live: https://high-injection-payment-photos.trycloudflare.com
 [boot 16:47:29Z] first publish done
 [boot 16:47:29Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 16:47:33Z] restore settled: ok
+[boot 16:47:33Z] TextNow app window started
