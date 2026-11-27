@@ -24,3 +24,5 @@ Tunnel is live: https://sunny-rock-biol-rather.trycloudflare.com
 [boot 06:42:59Z] first publish done
 [boot 06:42:59Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 06:43:02Z] restore settled: ok
+[boot 06:43:02Z] TextNow app window started
