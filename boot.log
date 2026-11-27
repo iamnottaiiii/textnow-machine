@@ -21,3 +21,6 @@ PORT=5900
 [boot 16:47:23Z] screen stack up
 [boot 16:47:23Z] tunnel attempt 1
 Tunnel is live: https://high-injection-payment-photos.trycloudflare.com
+[boot 16:47:29Z] first publish done
+[boot 16:47:29Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
