@@ -24,3 +24,5 @@ Tunnel is live: https://teaches-per-satisfied-pts.trycloudflare.com
 [boot 21:50:13Z] first publish done
 [boot 21:50:13Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 21:50:16Z] restore settled: ok
+[boot 21:50:16Z] TextNow app window started
