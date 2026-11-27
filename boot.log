@@ -21,3 +21,6 @@ PORT=5900
 [boot 21:50:05Z] screen stack up
 [boot 21:50:05Z] tunnel attempt 1
 Tunnel is live: https://teaches-per-satisfied-pts.trycloudflare.com
+[boot 21:50:13Z] first publish done
+[boot 21:50:13Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
