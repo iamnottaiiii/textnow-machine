@@ -21,3 +21,6 @@ PORT=5900
 [boot 01:40:17Z] screen stack up
 [boot 01:40:17Z] tunnel attempt 1
 Tunnel is live: https://launch-proved-kelly-demonstrated.trycloudflare.com
+[boot 01:40:23Z] first publish done
+[boot 01:40:23Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
