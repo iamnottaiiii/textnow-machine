@@ -21,3 +21,6 @@ PORT=5900
 [boot 06:42:52Z] screen stack up
 [boot 06:42:52Z] tunnel attempt 1
 Tunnel is live: https://sunny-rock-biol-rather.trycloudflare.com
+[boot 06:42:59Z] first publish done
+[boot 06:42:59Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
