@@ -1,12 +1,12 @@
 {
-  "url": "https://connected-indicates-camcorder-inform.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
+  "url": "https://authors-formation-offshore-nuts.trycloudflare.com/vnc.html?autoconnect=true&password=bjvfi-live&resize=scale",
   "started": "2026-11-20T16:18:58.181651+00:00",
-  "heartbeat": "2026-11-28T07:52:44.438210+00:00",
+  "heartbeat": "2026-11-28T07:55:11.594119+00:00",
   "state": "live",
   "build": "textnow-machine",
-  "restore": "ok",
+  "restore": "pending",
   "ts": "datacenter direct",
   "peers": "none",
-  "chain": "dispatch to iamnottaiiii/textnow-machine at 2026-11-28T07:52:34Z UTC, HTTP 204",
-  "ip": "52.183.219.38"
+  "chain": "pending: self-dispatch fires at 300 minutes",
+  "ip": "51.57.153.116"
 }
