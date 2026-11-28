@@ -24,3 +24,5 @@ Tunnel is live: https://connected-indicates-camcorder-inform.trycloudflare.com
 [boot 02:52:29Z] first publish done
 [boot 02:52:29Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 02:52:33Z] restore settled: ok
+[boot 02:52:33Z] TextNow app window started
