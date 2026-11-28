@@ -24,3 +24,5 @@ Tunnel is live: https://authors-formation-offshore-nuts.trycloudflare.com
 [boot 07:55:12Z] first publish done
 [boot 07:55:12Z] restore: verifying the saved archive before touching the live home
 Saved profile restored
+[boot 07:55:16Z] restore settled: ok
+[boot 07:55:16Z] TextNow app window started
