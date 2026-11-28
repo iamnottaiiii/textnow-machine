@@ -1,4 +1,4 @@
-[boot 21:47:58Z] engine started
+[boot 02:50:41Z] engine started
 
 Running kernel seems to be up-to-date.
 
@@ -12,17 +12,12 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
-[boot 21:48:14Z] packages ready
+[boot 02:51:00Z] packages ready
 Tailnet join failed, browsing keeps the datacenter IP
 backend error: invalid key: API key does not exist
 No exit node found on the tailnet, browsing keeps the datacenter IP
-[boot 21:49:55Z] routing settled: datacenter direct
+[boot 02:52:16Z] routing settled: datacenter direct
 PORT=5900
-[boot 21:50:05Z] screen stack up
-[boot 21:50:05Z] tunnel attempt 1
-Tunnel is live: https://teaches-per-satisfied-pts.trycloudflare.com
-[boot 21:50:13Z] first publish done
-[boot 21:50:13Z] restore: verifying the saved archive before touching the live home
-Saved profile restored
-[boot 21:50:16Z] restore settled: ok
-[boot 21:50:16Z] TextNow app window started
+[boot 02:52:24Z] screen stack up
+[boot 02:52:24Z] tunnel attempt 1
+Tunnel is live: https://connected-indicates-camcorder-inform.trycloudflare.com
