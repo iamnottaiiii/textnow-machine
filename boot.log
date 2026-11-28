@@ -21,3 +21,6 @@ PORT=5900
 [boot 02:52:24Z] screen stack up
 [boot 02:52:24Z] tunnel attempt 1
 Tunnel is live: https://connected-indicates-camcorder-inform.trycloudflare.com
+[boot 02:52:29Z] first publish done
+[boot 02:52:29Z] restore: verifying the saved archive before touching the live home
+Saved profile restored
